@@ -1,0 +1,68 @@
+_repo: Eight-Hundred-Leagues-on-the-Amazon_3091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: "Eight Hundred Leagues on the Amazon (French: La Jangada - Huit Cents\
+  \ lieues sur l'Amazone) is a novel by Jules Verne, published in 1881. It has also\
+  \ been published as The Giant Raft.\nUnlike many of his other novels, this story\
+  \ does not have any science fiction elements. It is an adventure novel.\nThis novel\
+  \ involves how Joam Garral, a ranch owner who lives near the Peruvian-Brazilian\
+  \ border on the Amazon River, is forced to travel down-stream when his past catches\
+  \ up with him. Most of the novel is situated on a large jangada (a Brazilian timber\
+  \ raft) that is used by Garral and his family to float to Belém at the river's mouth.\
+  \ Many aspects of the raft, scenery, and journey are described in detail.\n\n\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3091'
+  wikidata: Q1213684
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Peru -- Social life and customs -- Fiction'
+- !lcsh 'Rafts -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Brazil -- Social life and customs -- Fiction'
+- !lcsh 'Amazon River -- Fiction'
+- GITenberg
+title: Eight Hundred Leagues on the Amazon
+url: http://www.gutenberg.org/ebooks/3091
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Jangada
+- https://ar.wikipedia.org/wiki/%D8%AB%D9%85%D8%A7%D9%86%D9%85%D8%A7%D8%A6%D8%A9_%D9%81%D8%B1%D8%B3%D8%AE_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86
+- https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0
+- https://pt.wikipedia.org/wiki/La_jangada
+- https://pl.wikipedia.org/wiki/Jangada
+- https://it.wikipedia.org/wiki/La_Jangada
+- https://cs.wikipedia.org/wiki/Tajemstv%C3%AD_pralesa
+- https://fa.wikipedia.org/wiki/%D9%87%D8%B4%D8%AA%D8%B5%D8%AF_%D9%81%D8%B1%D8%B3%D9%86%DA%AF_%D8%AF%D8%B1_%D8%A2%D9%85%D8%A7%D8%B2%D9%88%D9%86
+- https://de.wikipedia.org/wiki/Die_Jangada
+- https://es.wikipedia.org/wiki/La_jangada
+- https://hu.wikipedia.org/wiki/Nyolcsz%C3%A1z_m%C3%A9rf%C3%B6ld_az_Amazonason
+- https://hy.wikipedia.org/wiki/%D4%BA%D5%A1%D5%B6%D5%A3%D5%A1%D5%A4%D5%A1._800_%D5%AC%D5%B5%D5%B8_%D4%B1%D5%B4%D5%A1%D5%A6%D5%B8%D5%B6%D5%AB_%D5%BE%D6%80%D5%A1%D5%B5%D5%B8%D5%BE
+- https://en.wikisource.org/wiki/Eight_Hundred_Leagues_on_the_Amazon
+- https://en.wikipedia.org/wiki/Eight_Hundred_Leagues_on_the_Amazon
+- https://commons.wikimedia.org/wiki/Category:Eight_Hundred_Leagues_on_the_Amazon
+- https://uk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD%D0%B3%D0%B0%D0%B4%D0%B0
+- https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD%D0%B3%D0%B0%D0%B4%D0%B0._%D0%92%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%81%D0%BE%D1%82_%D0%BB%D1%8C%D1%91_%D0%BF%D0%BE_%D0%90%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD%D0%BA%D0%B5
+- https://ro.wikipedia.org/wiki/800_de_leghe_pe_Amazon
+- https://sv.wikipedia.org/wiki/%C3%85ttahundra_mil_p%C3%A5_Amazonfloden
+- https://fr.wikisource.org/wiki/La_Jangada
