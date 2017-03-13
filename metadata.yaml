@@ -1,5 +1,8 @@
 _repo: Eight-Hundred-Leagues-on-the-Amazon_3091
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -25,6 +28,8 @@ description: "Eight Hundred Leagues on the Amazon (French: La Jangada - Huit Cen
   \ raft) that is used by Garral and his family to float to Belém at the river's mouth.\
   \ Many aspects of the raft, scenery, and journey are described in detail.\n\n\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3091#Eight-Hundred-Leagues-on-the-Amazon
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
 identifiers:
